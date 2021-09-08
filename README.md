@@ -1,4 +1,4 @@
-Hey👋👋This is a Weather App⛅🌧built using HTML,CSS and Javascript.To know the temperature of any place around the world.
+Hey👋👋This is a Weather App⛅🌧built using HTML,CSS and Javascript.To know the temperature of any place around the world
 just click the link.
 https://tender-hodgkin-d9f9a3.netlify.app
 Some of the screenshots of the App is given below!
